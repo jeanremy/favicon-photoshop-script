@@ -2,9 +2,10 @@
 
 *How to use*: 
 -	Open a vectorial graphic. 
--	File
--	Script
--	Browse
+-	> File
+-	> Script
+-	> Browse
+-	Then select the jsx file
 
 Then copy it to your index file:
 
