@@ -82,8 +82,8 @@ if(place == null) {
 }
 else {
 	for (var i = 0; i < files.length; i++) {
-		doc.resizeImage(UnitValue(files[i].width, "px"), UnitValue(files[i].height, "px"), 72, ResampleMethod.BICUBIC);
 	    var file = new File(place+'/'+files[i].filename);
+		doc.resizeImage(UnitValue(files[i].width, "px"), UnitValue(files[i].height, "px"), 72, ResampleMethod.BICUBIC);
 	    saveOptions = new PNGSaveOptions();
 		saveOptions.compression = 9;
 		saveOptions.interlaced =false;
