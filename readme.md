@@ -1,4 +1,4 @@
-#Photoshop plugin to create favicon#
+#Photoshop script to create favicon#
 
 *How to use*: 
 -	Open a vectorial graphic. 
