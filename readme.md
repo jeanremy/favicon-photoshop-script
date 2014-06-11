@@ -7,6 +7,8 @@
 -	> Browse
 -	Then select the jsx file
 
+The script will ask for a destination folder. Select one, and let the script resize & save.
+
 Then copy it to your index file:
 
 				<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
