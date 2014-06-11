@@ -25,4 +25,4 @@ Then copy it to your index file:
 		        <meta name="msapplication-TileColor" content="#fafafa">
 		        <meta name="msapplication-TileImage" content="/win8-tile-icon-144x144.png">
 
-More info, see realfavicongenerator.net
+More info, see [realfavicongenerator.net](http://www.realfavicongenerator.net)
