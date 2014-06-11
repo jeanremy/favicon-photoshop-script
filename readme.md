@@ -1,12 +1,13 @@
 #Photoshop plugin to create favicon#
 
 *How to use*: 
--Open a vectorial graphic. 
--File
--Script
--Browse
+-	Open a vectorial graphic. 
+-	File
+-	Script
+-	Browse
 
 Then copy it to your index file:
+
 				<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
 		        <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
 		        <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
