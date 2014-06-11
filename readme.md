@@ -21,9 +21,7 @@ Then copy it to your index file:
 		        <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
 		        <link rel="icon" type="image/png" href="/favicon-160x160.png" sizes="160x160">
 		        <link rel="icon" type="image/png" href="/favicon-196x196.png" sizes="196x196">
-
-		        <!--[if IE]>
-		            <link rel="shortcut icon" href="/favicon.ico">
-		        <![endif]-->
 		        <meta name="msapplication-TileColor" content="#fafafa">
 		        <meta name="msapplication-TileImage" content="/win8-tile-icon-144x144.png">
+
+More info, see realfavicongenerator.net
