@@ -25,6 +25,11 @@ var files = [
 		height: 74
 	},
 	{
+		filename: 'apple-touch-icon-76x76.png',
+		width: 76,
+		height: 76
+	},
+	{
 		filename: 'apple-touch-icon-114x114.png',
 		width: 114,
 		height: 114
