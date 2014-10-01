@@ -5,9 +5,14 @@ var doc = app.activeDocument;
 var place = Folder.selectDialog("Select a folder to process");
 var files = [
 	{
-		filename: 'apple-touch-icon-57x57.png',
-		width: 57,
-		height: 57
+		filename: 'favicon-16x16.png',
+		width: 16,
+		height: 16
+	},
+	{
+		filename: 'favicon-32x32.png',
+		width: 32,
+		height: 32
 	},
 	{
 		filename: 'apple-touch-icon-60x60.png',
@@ -30,6 +35,11 @@ var files = [
 		height: 76
 	},
 	{
+		filename: 'favicon-96x96.png',
+		width: 96,
+		height: 96
+	},
+	{
 		filename: 'apple-touch-icon-114x114.png',
 		width: 114,
 		height: 114
@@ -45,24 +55,19 @@ var files = [
 		height: 144
 	},
 	{
+		filename: 'apple-touch-icon-57x57.png',
+		width: 57,
+		height: 57
+	},
+	{
+		filename: 'win8-tile-icon-144x144.png',
+		width: 144,
+		height: 144
+	},
+	{
 		filename: 'apple-touch-icon-152x152.png',
 		width: 152,
 		height: 152
-	},
-	{
-		filename: 'favicon-16x16.png',
-		width: 16,
-		height: 16
-	},
-	{
-		filename: 'favicon-32x32.png',
-		width: 32,
-		height: 32
-	},
-	{
-		filename: 'favicon-96x96.png',
-		width: 96,
-		height: 96
 	},
 	{
 		filename: 'favicon-160x160.png',
@@ -73,11 +78,6 @@ var files = [
 		filename: 'favicon-196x196.png',
 		width: 196,
 		height: 196
-	},
-	{
-		filename: 'win8-tile-icon-144x144.png',
-		width: 144,
-		height: 144
 	}
 ];
 
